@@ -1,0 +1,2 @@
+# clipboardcopy
+Copy the content 
